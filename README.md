@@ -51,7 +51,7 @@ CareHer aims to create a safe, supportive, and empowering space for women's phys
 
 ```bash
 # Clone the repository
-git clone https://github.com/tanmayi1905/careher.git
+git clone https://github.com/tanmayi1905/CareHer-Healthcare-platform-for-womens.git
 
 # Navigate into the project directory
 cd careher
